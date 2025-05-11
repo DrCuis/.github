@@ -26,11 +26,15 @@ documentations, in various formats, for the free
 * [The Cuis Book](https://drcuis.github.io/TheCuisBook), good first
   reading when discovering Cuis and learning programming, particularly
   the chapters 1 to 5.
+* [Design GUI with Morph](https://drcuis.github.io/DesignGUI). This
+  booklet guides the reader to learn how to build GUI application,
+  including several design iterations of a memory game. *Still
+  Work-In-Progress*.
 
 ### How-to guides
 
 * **Drag and Drop.**
-   * [Understanding Drag and Drop Mechanics](https://github.com/DrCuis/Technical/blob/main/Morphic/DragAndDrop.md)
+   * [Understanding Drag and Drop Mechanics](https://github.com/DrCuis/Workbench/blob/main/Morphic/DragAndDrop.md)
 
 * **Packaging.**
    * [How-to make a simple package](https://github.com/DrCuis/Learning-Cuis/blob/master/SamplePackage1.md)
@@ -38,14 +42,15 @@ documentations, in various formats, for the free
 
 * **Layout in GUI.**
    * [Layout Tour](https://github.com/DrCuis/Learning-Cuis/blob/master/LayoutTour.md)
-   * [Layout Calculation](https://github.com/DrCuis/Technical/blob/main/Morphic/LayoutUsage.md)
+   * [Layout Calculation](https://github.com/DrCuis/Workbench/blob/main/Morphic/LayoutUsage.md)
+   * [Layout components](https://drcuis.github.io/DesignGUI/Layout-components.html)
 
 ### References
 
 ### Explanations
 
 * [Best
-  Practices](https://github.com/DrCuis/Technical/blob/main/MiscProgramming/BestPractices.md)
+  Practices](https://github.com/DrCuis/Workbench/blob/main/MiscProgramming/BestPractices.md)
   when dealing with object recognition
 * [Design Principles Behind Smalltalk](https://github.com/DrCuis/Learning-Cuis/blob/master/DesignRubrics.md)
 
