@@ -7,14 +7,14 @@ In a unique place, easy to identify (http://doc.cuis.st), is
 documentation, in various formats, for the free
 [Cuis-Smalltalk](http://cuis.st) system. The documentation is structured in four categories:
 
-* **Tutorials.** This is the documentation you want to read when first
+* **Tutorials** This is the documentation you want to read when first
   learning Cuis or when you want to learn a very specific facet of
   Cuis.
-* **How-to guides.** These guides are step-by-step procedures to
+* **How-to guides** These guides are step-by-step procedures to
   resolve specific problems.
-* **References.** In this category, we provide technical documentation
+* **References** In this category, we provide technical documentation
   on various facets of Cuis.
-* **Explanations.** To have a broader picture of Cuis and how it is
+* **Explanations** To have a broader picture of Cuis and how it is
   positioned regarding the Smalltalk-80 system reference, take a look
   here.
 
@@ -23,24 +23,24 @@ documentation, in various formats, for the free
 * [Quick Tour](https://github.com/DrCuis/Learning-Cuis/blob/master/Quick-UI-Tour.md)
   A quick warm-up to learn a bit about the Cuis-Smalltalk system
   environment.
-* [The Cuis Book](https://drcuis.github.io/TheCuisBook), good first
+* [The Cuis Book](https://drcuis.github.io/TheCuisBook) A good first
   reading when discovering Cuis and learning programming, particularly
   chapters 1 to 5.
-* [Design GUI with Morph](https://drcuis.github.io/DesignGUI). This
+* [Design GUI with Morph](https://drcuis.github.io/DesignGUI) This
   booklet guides the reader to learn how to build a GUI application,
   including several design iterations of a memory game. *A
   Work-In-Progress*.
 
 ### How-to guides
 
-* **Drag and Drop.**
+* **Drag and Drop**
    * [Understanding Drag and Drop Mechanics](https://github.com/DrCuis/Workbench/blob/main/Morphic/DragAndDrop.md)
 
-* **Packaging.**
+* **Packaging**
    * [How to make a simple package](https://github.com/DrCuis/Learning-Cuis/blob/master/SamplePackage1.md)
    * [The package](https://drcuis.github.io/TheCuisBook/The-Package.html) chapter from the *The Cuis Book*
 
-* **GUI Layout.**
+* **GUI Layout**
    * [Layout Tour](https://github.com/DrCuis/Learning-Cuis/blob/master/LayoutTour.md)
    * [Layout Calculation](https://github.com/DrCuis/Workbench/blob/main/Morphic/LayoutUsage.md)
    * [Layout components](https://drcuis.github.io/DesignGUI/Layout-components.html)
@@ -78,7 +78,7 @@ written documentation to be clearly identified and acknowledged,
 particularly in the how-to guides, where they too often remain anonymous.**
 
 Participation can be in one of the existing repositories below, or
-start a complete new one, for example, starting a new booklet in a
+start a completely new one, for example, starting a new booklet in a
 topic you want to explore, or using a particular tool that fits your
 taste when writing documentation. It is likely that other people in the
 community will be interested too.
