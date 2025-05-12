@@ -58,14 +58,14 @@ documentation, in various formats, for the free
 ## Why Dr. Cuis?
 Any good software deserves good documentation. It is helpful to foster
 an understanding and know-how of any new system - _Yes, Smalltalk is
-still new!_ Good documentation is useful to both individuals for
+still new!_ Good documentation is helpful to both individuals for
 a self-learning experience and for school institutions such as high schools,
 colleges, and universities; good documentation drastically improves the
 acceptance of any new system and softens the burden of producing vast
 amounts of teaching materials.
 
 ## Community 
-The Cuis-Smalltalk project is built, maintained and improved by an
+The Cuis-Smalltalk project is built, maintained, and improved by an
 enthusiastic community of humans around the world. Whether you are a
 veteran Smalltalk user or a fresh Cuis enthusiast, you should consider
 how you can give back to the Cuis project. Participating in the Cuis
