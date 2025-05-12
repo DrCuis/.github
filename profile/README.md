@@ -12,12 +12,12 @@ system](https://docs.divio.com/documentation-system):
 * **[Tutorials.](http://github.com/DrCuis/Tutorials)** This is the
   documentation you want to read when first learning Cuis or when you
   want to learn a very specific facet of Cuis.
-* **[How-to Guides](http://github.com/DrCuis/How-to-guides)** These
+* **[How-to Guides.](http://github.com/DrCuis/How-to-guides)** These
   guides are step-by-step procedures to resolve specific problems.
-* **[References](http://github.com/DrCuis/References-guides)** In this
+* **[References.](http://github.com/DrCuis/References-guides)** In this
   category, we provide technical documentation on various facets of
   Cuis.
-* **[Explanations](http://github.com/DrCuis/Explanations)** To have a
+* **[Explanations.](http://github.com/DrCuis/Explanations)** To have a
   broader picture of Cuis and how it is positioned regarding the
   Smalltalk-80 system reference, take a look here.
 
