@@ -3,12 +3,12 @@
 Welcome to the **C**uis **D**ocumentation **P**roject
 
 ## What you will find here
-In a unique place, easy to identify (http://doc.cuis.st), is
-documentation, in various formats, for the free
-[Cuis-Smalltalk](http://cuis.st) system. The documentation is structured in four categories:
+Documentation, in various formats, in a unique place, at an easily identifiable
+url (https://doc.cuis.st), for the free [Cuis-Smalltalk](https://cuis.st) system. 
+The documentation is structured in four categories:
 
 * **Tutorials** This is the documentation you want to read when first
-  learning Cuis or when you want to learn a very specific facet of
+  learning Cuis, or when you want to learn a very specific facet of
   Cuis.
 * **How-to guides** These guides are step-by-step procedures to
   resolve specific problems.
