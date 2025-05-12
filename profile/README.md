@@ -5,9 +5,11 @@ Welcome to the **C**uis **D**ocumentation **P**roject
 ## What you will find here
 In an unique place, easy to identify (http://doc.cuis.st), are
 documentations, in various formats, for the free
-[Cuis-Smalltalk](http://cuis.st) system. The documentation is structured in four categories:
+[Cuis-Smalltalk](http://cuis.st) system. The documentation is
+structured in four categories as described in the [documentation
+system](https://docs.divio.com/documentation-system):
 
-* **Tutorials.** This is the documentation you want to read when first
+* **[Tutorials.](/DrCuis/How-to-guides)** This is the documentation you want to read when first
   learning Cuis or when you want to learn a very specific facet of
   Cuis.
 * **How-to guides.** These guides are step by step procedures to
@@ -17,43 +19,6 @@ documentations, in various formats, for the free
 * **Explanations.** To have a broader picture of Cuis, how it is
   positioned regarding the Smalltalk-80 system reference, take a look
   there.
-
-### Tutorials
-
-* [Quick Tour](https://github.com/DrCuis/Learning-Cuis/blob/master/Quick-UI-Tour.md)
-  A quick warm-up to learn a bit the Cuis-Smalltalk system
-  environment.
-* [The Cuis Book](https://drcuis.github.io/TheCuisBook), good first
-  reading when discovering Cuis and learning programming, particularly
-  the chapters 1 to 5.
-* [Design GUI with Morph](https://drcuis.github.io/DesignGUI). This
-  booklet guides the reader to learn how to build GUI application,
-  including several design iterations of a memory game. *Still
-  Work-In-Progress*.
-
-### How-to guides
-
-* **Drag and Drop.**
-   * [Understanding Drag and Drop Mechanics](https://github.com/DrCuis/Workbench/blob/main/Morphic/DragAndDrop.md)
-
-* **Packaging.**
-   * [How-to make a simple package](https://github.com/DrCuis/Learning-Cuis/blob/master/SamplePackage1.md)
-   * [The package](https://drcuis.github.io/TheCuisBook/The-Package.html) chapter from the *The Cuis Book*
-
-* **Layout in GUI.**
-   * [Layout Tour](https://github.com/DrCuis/Learning-Cuis/blob/master/LayoutTour.md)
-   * [Layout Calculation](https://github.com/DrCuis/Workbench/blob/main/Morphic/LayoutUsage.md)
-   * [Layout components](https://drcuis.github.io/DesignGUI/Layout-components.html)
-
-### References
-
-### Explanations
-
-* [Best
-  Practices](https://github.com/DrCuis/Workbench/blob/main/MiscProgramming/BestPractices.md)
-  when dealing with object recognition
-* [Design Principles Behind Smalltalk](https://github.com/DrCuis/Learning-Cuis/blob/master/DesignRubrics.md)
-
 
 ## Why Dr. Cuis?
 Any good software deserves good documentation. It is useful to foster
