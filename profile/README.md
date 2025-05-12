@@ -10,7 +10,7 @@ The documentation is structured in four categories:
 * **Tutorials** This is the documentation you want to read when first
   learning Cuis, or when you want to learn a very specific facet of
   Cuis.
-* **How-to guides** These guides are step-by-step procedures to
+* **How-to Guides** These guides are step-by-step procedures to
   resolve specific problems.
 * **References** In this category, we provide technical documentation
   on various facets of Cuis.
@@ -31,7 +31,7 @@ The documentation is structured in four categories:
   including several design iterations of a memory game. *A
   Work-In-Progress*.
 
-### How-to guides
+### How-to Guides
 
 * **Drag and Drop**
    * [Understanding Drag and Drop Mechanics](https://github.com/DrCuis/Workbench/blob/main/Morphic/DragAndDrop.md)
@@ -49,8 +49,7 @@ The documentation is structured in four categories:
 
 ### Explanations
 
-* [Best
-  Practices](https://github.com/DrCuis/Workbench/blob/main/MiscProgramming/BestPractices.md)
+* [Best Practices](https://github.com/DrCuis/Workbench/blob/main/MiscProgramming/BestPractices.md)
   when dealing with object recognition
 * [Design Principles Behind Smalltalk](https://github.com/DrCuis/Learning-Cuis/blob/master/DesignRubrics.md)
 
