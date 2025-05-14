@@ -3,8 +3,7 @@
 Welcome to the **C**uis **D**ocumentation **P**roject
 
 ## What you will find here
-In a unique place, easy to identify (http://doc.cuis.st), is
-documentation, in various formats, for the free
+Documentation, in a unique place, easy to identify (http://doc.cuis.st), in various formats, for the free
 [Cuis-Smalltalk](http://cuis.st) system. The documentation is
 structured in four categories as described in the [documentation
 system](https://docs.divio.com/documentation-system):
